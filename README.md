@@ -1,3 +1,4 @@
+
 Tienda Online
 
 Este es un sistema de tienda online desarrollado en Python utilizando la biblioteca Tkinter para la interfaz gráfica de usuario. Permite a los usuarios iniciar sesión, registrar nuevas cuentas, navegar por productos, agregar productos al carrito de compras, ver el carrito y realizar pagos.
